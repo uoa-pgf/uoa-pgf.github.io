@@ -1,79 +1,74 @@
 - 
   id: 1
-  name: "Prof. Jerry Chun-Wei Lin"
+  name: "Prof. Xiaoqing Wen"
   # surname: "Ostrowski"
-  company: "Western Norway University of Applied Sciences"
-  # title: "IEEE Fellow"
-  bio: "Jerry Chun-Wei Lin (Senior Member, IEEE) received the Ph.D. degree from the Department of Computer Science and Information Engineering, 
-  National Cheng Kung University, Tainan, Taiwan, in 2010. He is currently a Full Professor with the Department of Computer Science, Electrical Engineering, and Mathematical Sciences, Western Norway University of Applied Sciences, Bergen, Norway. He has published more than 400 research articles in journals, and international conferences. His research interests include data mining, soft computing, and artificial intelligence/machine learning.
-Prof. Lin is the guest editor/an associate editor of several IEEE/ACM journals."
+  company: "Kyushu Institute of Technology"
+  title: "IEEE Fellow"
+  bio: "Xiaoqing Wen (Fellow, IEEE) received the B.E. degree in computer engineering from Tsinghua University, Beijing, China, in 1986, the M.E. degree in information engineering from Hiroshima University, Hiroshima, Japan, in 1990, and the Ph.D. degree in applied physics from Osaka University, Suita, Japan, in 1993.,From 1993 to 1997, he was an Assistant Professor with Akita University, Akita, Japan. He was a Visiting Researcher with the University of Wisconsin, Madison, WI, USA, from 1995 to 1996. He joined SynTest Technologies, Inc., Sunnyvale, CA, USA, in 1998, and worked as the Chief Technology Officer until 2003. In 2004, he joined the Kyushu Institute of Technology, Fukuoka, Japan, where he is currently a Professor and the Chair of the Department of Creative Informatics. He founded the Depend-Able Integrated Systems Research Center in 2015 and worked as the Director until 2017. He holds 43 U.S. patents and 14 Japanese patents on very large scale integration (VLSI) testing. He has co-authored and coedited two books, such as VLSI Test Principles and Architectures: Design for Testability (Morgan Kaufmann, 2006) and Power-Aware Testing and Test Strategies for Low Power Devices (Springer, 2009). His research interests include VLSI test, diagnosis, and testable design.,Dr. Wen is a member of the Institute of Electronics, Information and Communication Engineers (IEICE), the Information Processing Society of Japan, and the Reliability Engineering Association of Japan. He was a recipient of the 2008 IEICE-ISS Best Paper Award for his pioneering work on X-filling-based low-capture-power test generation. He currently serves as an Associate Editor for IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, IEEE Transactions on VLSI Systems, and Journal of Electronic Testing: Theory and Applications."
   rockstar: true
-  thumbnailUrl: Jerry_Chun-Wei_Lin.jpg
+  thumbnailUrl: Xiaoqing_Wen.jpg
   ribbon: 
     - {abbr: "K", title: "Keynote Speaker"}
+  social: 
+    - {name: "site", link: "https://www.vlab.cse.kyutech.ac.jp/~wen/index.htm"}
 - 
   id: 2
-  name: "Mr. Do Ba Duc"
-  company: "Founder of Tokyo Techies & Tokyo Tech Lab "
-  bio: "Mr. Do Ba Duc is the founder of Tokyo Techies Corp - a one-stop IT consulting firm that focuses on Data Science & AI, Cybersecurity, Robotics, 
-  and Software Development technologies. He is also the founder of Tokyo Tech Lab, an IT firm that aims to secure more talented IT resources and provides 
-  enterprise customers IT services with high agility and quality from outside Japan. In his previous jobs at Rakuten Inc. and Line Corp., he worked on 
-  many back-office services and was the lead front-end engineer in charge of core EC mobile apps. Duc was a senior product manager, project manager, and 
-  cloud architect at Softbank Business Development Unit, in charge of technical due diligence for investment projects, cloud product UX enhancement, 
-  quality control, and product roadmap management. He was also the product section manager at SB Cloud (a joint venture of SoftBank and Alibaba Cloud), 
-  a key person who largely contributed to the successful launch of Alibaba Cloud in Japan. "
-  thumbnailUrl: Do_Ba_Duc.jpg
+  name: "Prof. Kohei Shiomoto"
+  company: "Tokyo City University"
+  title: "IEICE Fellow"
+  bio: "Kohei Shiomoto is a Professor, Tokyo City University, Tokyo Japan. Since joining NTT Laboratories in 1989, he has been engaged in research and development in the data communications industry on high-speed computer network architecture, traffic management, and network analysis to create innovative technologies for the Internet, mobile, and cloud computing. From 1996 to 1997, he was a visiting scholar at Washington University in St. Louis, MO, USA. In 2017, he joined Tokyo City University to engage in research and education on data science and computer networking. Current research interests include data mining for network management, human flow analysis, cloud computing and blockchain. He has published more than 70 academic papers, 130 refereed international conference papers, and 6 RFCs in IETF. He served as Guest Co-Editor for a series of special issues established in IEEE Transactions on Network and Service Management. He has served in various roles organizing IEEE ComSoc conferences including IEEE NOMS, IEEE IM, and IEEE NetSoft. He served as the lead Series editor for the Network Softwarization and Management Series in IEEE Communications Magazine, 2018-2021. He is a Fellow of the Institute of Electronics, Information and Communication Engineers (IEICE), a Senior Member of the IEEE, and a member of the ACM and the Information Processing Society of Japan (IPSJ)."
+  thumbnailUrl: Kohei-Shiomoto.jpg
   rockstar: true
   ribbon: 
     - {abbr: "K", title: "Keynote Speaker"}
   social: 
-    - {name: "site", link: "https://www.linkedin.com/in/dobaduc/"}
+    - {name: "site", link: "https://rossini.is.tcu.ac.jp/~shiomoto/"}
 - 
   id: 3
-  name: "Dr. Nguyen Van Duc"
-  company: "Tohoku Institute of Technology"
-  bio: "Dr Nguyen Duc received the M.E. and Ph.D. degrees in computer science and engineering from The University of Aizu, Japan, in 2016 and 2019, respectively. From 2019 to 2021, he was a Researcher with KDDI Research Inc., Japan. Since 2021, he has been a Lecturer with the Tohoku Institute of Technology, Sendai, Japan.
-His research interests include multimedia communications, video streaming, multimedia quality assessment, virtual reality/augmented reality, data mining, and recommendation systems."
-  thumbnailUrl: Duc_Nguyen.png
+  name: "Dr. Alberto Carrasco-Casado"
+  company: "National Institute of Information and Communications Technology (NICT)"
+  bio: "Alberto Carrasco-Casado received the B.S. degree in telecommunication engineering from Málaga University, Málaga, Spain, in 2005, and the M.S. degree in telecommunication engineering and second M.S. degree in space research from the University of Alcalá, Madrid, Spain, in 2008 and 2009, respectively, and the Ph.D. degree in electric, electronic, and automation engineering from the Carlos III University of Madrid, Getafe, Spain, and Spanish National Research Council, Madrid, in 2015. In 2015, he joined the Space Communication Systems Laboratory, National Institute of Information and Communications Technology, Tokyo, Japan. His research interests include free-space optics, satellite communications, space engineering, and quantum cryptography."
+  thumbnailUrl: alberto.jpg
   rockstar: true
   ribbon: 
     - {abbr: "K", title: "Keynote Speaker"}
   social: 
-    - {name: "site", link: "https://sites.google.com/view/ducnguyen012/"}
-# - 
-#   id: 4
-#   name: "Dr. Md. Rashedul Islam"
-#   company: "Chowagiken Corp., Japan"
-#   bio: "Dr. Md. Rashedul Islam received a B.Sc. degree in computer science and engineering from the University Rajshahi, Rajshahi, Bangladesh, in 2006, an M.Sc. degree in informatics from the Högskolan i Borås (University of Boras), Boras, Sweden, in 2011, and a Ph.D. degree in electrical, electronic, and computer engineering at the University of Ulsan, Ulsan, South Korea, in 2016. He is currently working as a Lead Researcher of Computer Vision and Lead of Overseas AI Development Group, Chowagiken Corp., Japan.  His research areas are Computer Vision, Machine learning, deep learning, AI, Signal & Image processing, HCI, health informatics, Bearing fault diagnosis, and others."
-#   thumbnailUrl: Md_Rashedul_Islam.jpg
-#   rockstar: true
-#   ribbon: 
-#     - {abbr: "K", title: "Keynote Speaker"}
-#   social: 
-#     - {name: "site", link: "https://www.rashedul.info/"}
+    - {name: "site", link: "https://www2.nict.go.jp/spacelab/en/alberto.html"}
 - 
   id: 4
-  name: "Prof. Viglietta Giovanni"
+  name: "Prof. Kachi Yasuyuki"
   company: "The University of Aizu "
-  bio: "Prof. Viglietta Giovanni is currently an Associate Professor at the School of Computer Science and Engineering at the University of Aizu (UoA), 
-  Japan. He received Master's and Ph.D. degrees in computer science at the University of Pisa, Italy. After that, he worked as a postdoctoral researcher 
-  at Carleton University, Ottawa, Canada, and ETH Zurich, Switzerland. In 2018, Dr. Viglietta joined the faculty of the Japan Advanced Institute of 
-  Science and Technology (JAIST), Japan. His research interests include distributed computing, computational geometry, and combinatorial game theory."
-  thumbnailUrl: Giovanni.jpg
+  bio: "Prof. Kachi Yasuyuki is currently a full Professor at the School of Computer Science and Engineering at the University of Aizu (UoA), Japan. 
+  He received Master's and Ph.D. degrees from Graduate School of Mathematical Sciences, the University of Tokyo. 
+  His research interests include information security, mathematics, and cryprography."
+  thumbnailUrl: Kachi.gif
   rockstar: true
   ribbon: 
     - {abbr: "K", title: "Keynote Speaker"}
   social: 
-    - {name: "site", link: "https://giovanniviglietta.com/"}
+    - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90138&lng=en"}
 -
   id: 102
   name: "Prof. Le Doan Hoang"
   company: "The University of Aizu"
-  bio: "Hoang Le is currently an Associate Professor with the School of Computer Science and Engineering at the University of Aizu (UoA), Japan. His research interests are in the areas of optical wireless communications, satellite/vehicular networks, applied AI/ML, and network security-based quantum cryptography. He was a recipient of a number of awards, including the 2018 KICS/IEEE ICTC Best Paper Award, 2019 IEEE VTS Tokyo Chapter Young Researcher Encouragement Award, 2019 IEEE ComSoc Sendai Chapter Student Excellent Research Award, young researcher to participate in the 9th Heidelberg Laureate Forum 2022, 2022 IEEE ICCE Best Paper Award, 2023 ICETC Best Poster Award, 2024 IEICE Comex Top Downloaded Letter, and 2024 IEEE/IET CSNDSP Best Paper Award. Dr. Hoang Le is currently the president of SAISUA of the University of Aizu. He also served as a Chair of the IEEE University of Aizu Student Branch and a committee member of the IEEE Sendai Young Professionals Affinity Group. He is a member of IEEE and IEICE."
+  bio: "Hoang Le is currently an Associate Professor with the School of Computer Science and Engineering at the University of Aizu (UoA), Japan. 
+  His research interests are in the areas of optical wireless communications, satellite/vehicular networks, applied AI/ML, and network security-based 
+  quantum cryptography. He was a recipient of a number of awards, including the 2018 KICS/IEEE ICTC Best Paper Award, 2019 IEEE VTS Tokyo Chapter Young 
+  Researcher Encouragement Award, 2019 IEEE ComSoc Sendai Chapter Student Excellent Research Award, young researcher to participate in the 9th 
+  Heidelberg Laureate Forum 2022, 2022 IEEE ICCE Best Paper Award, 2023 ICETC Best Poster Award, 2024 IEICE Comex Top Downloaded Letter, and 2024 
+  IEEE/IET CSNDSP Best Paper Award. Dr. Hoang Le is currently the president of SAISUA of the University of Aizu. He also served as a Chair of the IEEE 
+  University of Aizu Student Branch and a committee member of the IEEE Sendai Young Professionals Affinity Group. He is a member of IEEE and IEICE."
   thumbnailUrl: HoangLe.jpeg
 -
   id: 101
   name: "Prof. Paik Incheon"
   company: "The University of Aizu"
-  bio: "Dr. Incheon Paik received the M.E. and Ph.D. degrees in Electronics Engineering from Korea University in 1987 and 1992, respectively. During 1993-2000, he worked as an associate professor in Soonchunhyang university, Korea. From 1996 to 1998, he was a visiting researcher of State Key Laboratory, Beihang University, Beijing, China. He moved to the University of Aizu  in Japan in 2001, and is a professor in the School of Computer Science and Engineering of the univeristy. Dr. Paik's research interests include Deep Learning Applications in Semantic Web Services, Natural Language Processing, and Web Data together with Big Data Infrastructure and Analytics. He has organized numerous international conferences, and has served as a reviewer or editor of journals of JIPS, IEICE, Hindawi, IEEE. He is a senior member of IEEE, and regular member of IEICE, IEIE, and IPSJ. Also, he was a director of IEIE Japan Branch, an executive committee member of IEEE Sendai section, and served as a chair of IEICE Service Computing Technical Committee."
+  bio: "Dr. Incheon Paik received the M.E. and Ph.D. degrees in Electronics Engineering from Korea University in 1987 and 1992, respectively. 
+  During 1993-2000, he worked as an associate professor in Soonchunhyang university, Korea. From 1996 to 1998, he was a visiting researcher of State 
+  Key Laboratory, Beihang University, Beijing, China. He moved to the University of Aizu  in Japan in 2001, and is a professor in the School of 
+  Computer Science and Engineering of the univeristy. Dr. Paik's research interests include Deep Learning Applications in Semantic Web Services, 
+  Natural Language Processing, and Web Data together with Big Data Infrastructure and Analytics. He has organized numerous international conferences, 
+  \and has served as a reviewer or editor of journals of JIPS, IEICE, Hindawi, IEEE. He is a senior member of IEEE, and regular member of IEICE, IEIE, 
+  and IPSJ. Also, he was a director of IEIE Japan Branch, an executive committee member of IEEE Sendai section, and served as a chair of IEICE Service 
+  Computing Technical Committee."
   thumbnailUrl: paik_sensei.jpg

@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "UoA Postgraduate Forum 2024"
+title: "UoA Postgraduate Forum 2025"
 email: "hoangle@u-aizu.ac.jp"
-description: "Postgraduate Forum 2024, the University of Aizu"
+description: "Postgraduate Forum 2025, the University of Aizu"
 baseurl: ""
 url: "http://uoa-pgf.github.io"
 permalink: "/blog/:title"
@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Organizers"}
- - {permalink: "/blog/call-for-registration", text: "Call for Registration"}
+#  - {permalink: "/blog/call-for-registration", text: "Call for Registration"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
@@ -51,9 +51,9 @@ navigationLinks:
  - {permalink: "/pastevent/", text: "Previous Events"}
 
 # Hero Block
-heroImage: "banner_3.jpg"
-heroTitle: "Postgraduate Forum 2024"
-eventDate: "October 23, 2024"
+heroImage: "banner_2.jpg"
+heroTitle: "Postgraduate Forum 2025"
+eventDate: "November 19, 2025"
 eventPlace: "UBIC, The University of Aizu"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeojhW778312QfYe5oqVWHz6PvrMHNODpw4FoT47fkAUlJaxA/viewform?usp=pp_url", text: "Register"}

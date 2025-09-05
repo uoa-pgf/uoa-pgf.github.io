@@ -1,19 +1,19 @@
-- 
-  id: 0
-  name: "Professor PHAM Tuan Anh"
-  # surname: "Zasadnyy"
-  # title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
-  advisory: true
-  social: 
-    - {name: "site", link: "https://u-aizu.ac.jp/labs/ce-cc/"}
-- 
-  id: 1
-  name: "Prof. Rage Uday Kiran"
-  thumbnailUrl: uday.jpeg
-  level: 1
-  social: 
-    - {name: "site", link: "https://u-aizu.ac.jp/~udayrage/"}
+# - 
+#   id: 0
+#   name: "Professor PHAM Tuan Anh"
+#   # surname: "Zasadnyy"
+#   # title: "Sponsors and Speakers Manager"
+#   thumbnailUrl: VitaliyZasadnyy.jpg
+#   advisory: true
+#   social: 
+#     - {name: "site", link: "https://u-aizu.ac.jp/labs/ce-cc/"}
+# - 
+#   id: 1
+#   name: "Prof. Rage Uday Kiran"
+#   thumbnailUrl: uday.jpeg
+#   level: 1
+#   social: 
+#     - {name: "site", link: "https://u-aizu.ac.jp/~udayrage/"}
 - 
   id: 2
   name: "Prof. Le Doan Hoang"
@@ -21,59 +21,59 @@
   level: 0
   social: 
     - {name: "site", link: "https://u-aizu.ac.jp/~hoangle/"}
-- 
-  id: 3
-  name: "Prof. Akila Siriweera"
-  thumbnailUrl: Siriweera.jfif
-  level: 1
-  social: 
-    - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90161&lng=en"}
-- 
-  id: 4
-  name: "Prof. Saxena Deepika"
-  thumbnailUrl: deepika.jpg
-  level: 1
-  social: 
-    - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90155&lng=en"}
-- 
-  id: 5
-  name: "Dr. ABU Saleh Musa Miah"
-  # title: "Website"
-  thumbnailUrl: Musa.jpg
-  level: 2
-- 
-  id: 6
-  name: "Dr. LI Tianhui"
-  # title: "Website"
-  thumbnailUrl: no-face.png
-  level: 2
-- 
-  id: 7
-  name: "Md Faizul Ibne Amin"
-  # title: "Website"
-  thumbnailUrl: Amin.png
-  level: 3
-- 
-  id: 8
-  name: "NGUYEN Trong Cuong"
-  title: "Website"
-  thumbnailUrl: cuong.jpg
-  level: 3
-- 
-  id: 9
-  name: "NGUYEN Van Tinh"
-  # title: "Registration"
-  thumbnailUrl: Tinh.jpeg
-  level: 3
-- 
-  id: 10
-  name: "Prof. Paik Incheon"
-  # title: "Registration"
-  thumbnailUrl: paik_sensei.jpg
-  level: 4
-- 
-  id: 10
-  name: "Prof. Pham Tuan Anh"
-  # title: "Registration"
-  thumbnailUrl: pham.jpeg
-  level: 4
+# - 
+#   id: 3
+#   name: "Prof. Akila Siriweera"
+#   thumbnailUrl: Siriweera.jfif
+#   level: 1
+#   social: 
+#     - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90161&lng=en"}
+# - 
+#   id: 4
+#   name: "Prof. Saxena Deepika"
+#   thumbnailUrl: deepika.jpg
+#   level: 1
+#   social: 
+#     - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90155&lng=en"}
+# - 
+#   id: 5
+#   name: "Dr. ABU Saleh Musa Miah"
+#   # title: "Website"
+#   thumbnailUrl: Musa.jpg
+#   level: 2
+# - 
+#   id: 6
+#   name: "Dr. LI Tianhui"
+#   # title: "Website"
+#   thumbnailUrl: no-face.png
+#   level: 2
+# - 
+#   id: 7
+#   name: "Md Faizul Ibne Amin"
+#   # title: "Website"
+#   thumbnailUrl: Amin.png
+#   level: 3
+# - 
+#   id: 8
+#   name: "NGUYEN Trong Cuong"
+#   title: "Website"
+#   thumbnailUrl: cuong.jpg
+#   level: 3
+# - 
+#   id: 9
+#   name: "NGUYEN Van Tinh"
+#   # title: "Registration"
+#   thumbnailUrl: Tinh.jpeg
+#   level: 3
+# - 
+#   id: 10
+#   name: "Prof. Paik Incheon"
+#   # title: "Registration"
+#   thumbnailUrl: paik_sensei.jpg
+#   level: 4
+# - 
+#   id: 10
+#   name: "Prof. Pham Tuan Anh"
+#   # title: "Registration"
+#   thumbnailUrl: pham.jpeg
+#   level: 4
