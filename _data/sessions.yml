@@ -26,7 +26,7 @@
   id: 304
   title: "Student Presentation (Oral)"
   service: true
-  description: "Five students selected by the peer-review process. Session chair: Dr. Musa"
+  description: "Five students. Session chair: Prof. Saxena"
 -
   id: 303
   title: "Award Ceremony"
@@ -35,33 +35,33 @@
 -
   id: 503
   title: "Lunch Time"
-  place: "Dining room"
+  place: "Cafeteria"
   service: true
 -
   id: 001
-  title: "Research Trending"
-  description: "Sesssion Chair: Prof. Pham Tuan Anh"
-  subtype: keynote
-  speakers: [1]
--
-  id: 002
-  title: "Industry Talk"
-  description: "Sesssion Chair: Prof. Pham Tuan Anh"
+  title: "Transitioning from R&D to an Academic Career"
+  description: "Session Chair: Prof. Pham Tuan Anh"
   subtype: keynote
   speakers: [2]
+-
+  id: 002
+  title: "Research Trends in the Semiconductor Industry"
+  description: "Session Chair: Prof. Pham Tuan Anh"
+  subtype: keynote
+  speakers: [1]
   # language: en
   # complexity: "Intermediate" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Research Tutorial"
-  description: "Sesssion Chair: Prof. RAGE Uday Kiran"
-  subtype: keynote
-  speakers: [4]
--
-  id: 004
-  title: "Job Hunting Experience"
-  description: "Sesssion Chair: Prof. RAGE Uday Kiran"
+  title: "Industry Talk"
+  description: "Session Chair: Prof. RAGE Uday Kiran"
   subtype: keynote
   speakers: [3]
+-
+  id: 004
+  title: "Building an Academic Career from the US to Japan"
+  description: "Session Chair: Prof. RAGE Uday Kiran"
+  subtype: keynote
+  speakers: [4]
