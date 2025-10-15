@@ -7,34 +7,34 @@
 #   advisory: true
 #   social: 
 #     - {name: "site", link: "https://u-aizu.ac.jp/labs/ce-cc/"}
-# - 
-#   id: 1
-#   name: "Prof. Rage Uday Kiran"
-#   thumbnailUrl: uday.jpeg
-#   level: 1
-#   social: 
-#     - {name: "site", link: "https://u-aizu.ac.jp/~udayrage/"}
+- 
+  id: 1
+  name: "Prof. Rage Uday Kiran"
+  thumbnailUrl: uday.jpeg
+  level: 1
+  social: 
+    - {name: "site", link: "https://u-aizu.ac.jp/~udayrage/"}
 - 
   id: 2
   name: "Prof. Le Doan Hoang"
   thumbnailUrl: HoangLe.jpeg
-  level: 0
+  level: 1
   social: 
     - {name: "site", link: "https://u-aizu.ac.jp/~hoangle/"}
-# - 
-#   id: 3
-#   name: "Prof. Akila Siriweera"
-#   thumbnailUrl: Siriweera.jfif
-#   level: 1
-#   social: 
-#     - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90161&lng=en"}
-# - 
-#   id: 4
-#   name: "Prof. Saxena Deepika"
-#   thumbnailUrl: deepika.jpg
-#   level: 1
-#   social: 
-#     - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90155&lng=en"}
+- 
+  id: 3
+  name: "Prof. Akila Siriweera"
+  thumbnailUrl: Siriweera.jfif
+  level: 1
+  social: 
+    - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90161&lng=en"}
+- 
+  id: 4
+  name: "Prof. Saxena Deepika"
+  thumbnailUrl: deepika.jpg
+  level: 1
+  social: 
+    - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90155&lng=en"}
 # - 
 #   id: 5
 #   name: "Dr. ABU Saleh Musa Miah"
@@ -54,17 +54,29 @@
 #   thumbnailUrl: Amin.png
 #   level: 3
 # - 
-#   id: 8
-#   name: "NGUYEN Trong Cuong"
-#   title: "Website"
-#   thumbnailUrl: cuong.jpg
-#   level: 3
-# - 
-#   id: 9
-#   name: "NGUYEN Van Tinh"
-#   # title: "Registration"
-#   thumbnailUrl: Tinh.jpeg
-#   level: 3
+  # id: 8
+  # name: "NGUYEN Trong Cuong"
+  # title: "Website"
+  # thumbnailUrl: cuong.jpg
+  # level: 3
+- 
+  id: 9
+  name: "DANG Dinh Khanh"
+  # title: "Registration"
+  thumbnailUrl: no-face.png
+  level: 3
+- 
+  id: 10
+  name: "DANG Van Luan"
+  # title: "Registration"
+  thumbnailUrl: no-face.png
+  level: 3
+- 
+  id: 11
+  name: "LE Viet Hung"
+  # title: "Registration"
+  thumbnailUrl: no-face.png
+  level: 3
 # - 
 #   id: 10
 #   name: "Prof. Paik Incheon"
