@@ -39,13 +39,13 @@
   service: true
 -
   id: 001
-  title: "Transitioning from R&D to an Academic Career"
+  title: "Transitioning from R&D to an Academic Career - Lessons on Growth, Curiosity, and Connection through Networks and AI Research"
   description: "Session Chair: Prof. Pham Tuan Anh"
   subtype: keynote
   speakers: [2]
 -
   id: 002
-  title: "Research Trends in the Semiconductor Industry"
+  title: "Three Career Decisions That Shaped My Professional Life"
   description: "Session Chair: Prof. Pham Tuan Anh"
   subtype: keynote
   speakers: [1]
@@ -55,7 +55,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Industry Talk"
+  title: "Space Optical Communications Activities in NICT"
   description: "Session Chair: Prof. RAGE Uday Kiran"
   subtype: keynote
   speakers: [3]
