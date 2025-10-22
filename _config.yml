@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Organizers"}
-#  - {permalink: "/blog/call-for-registration", text: "Call for Registration"}
+ - {permalink: "/blog/call-for-registration", text: "Call for Registration"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
@@ -56,7 +56,7 @@ heroTitle: "Postgraduate Forum 2025"
 eventDate: "November 19, 2025"
 eventPlace: "UBIC, The University of Aizu"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeojhW778312QfYe5oqVWHz6PvrMHNODpw4FoT47fkAUlJaxA/viewform?usp=pp_url", text: "Register"}
+ - {link: "https://forms.gle/9qWkxwD8mCjSLXDg6", text: "Register"}
 
 # About Block
 aboutTitle: "About Postgraduate Forum"
@@ -109,7 +109,7 @@ venueFeatures: ["Fukushima, Aizuwakamatsu, Itsukimachi Oaza Tsuruga, Kamiiawase-
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Sponsors"
