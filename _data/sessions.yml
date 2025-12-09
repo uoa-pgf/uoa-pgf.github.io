@@ -16,12 +16,12 @@
   id: 306
   title: "Poster Presentation (short)"
   service: true
-  description: "Session Chair: Prof. Akila"
+  description: "Session Chair: Prof. Le Doan Hoang"
 -
   id: 305
   title: "Poster Session"
   service: true
-  description: "Session chair: Prof. Akila"
+  # description: "Session chair: Prof. Akila"
 -
   id: 304
   title: "Student Presentation (Oral)"
